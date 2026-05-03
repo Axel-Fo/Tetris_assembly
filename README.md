@@ -2,7 +2,7 @@
 
 A Tetris game running on an ATmega128 microcontroller, displayed on an 8×8 RGB LED matrix.
 
-**Authors:** Noam Levy & Axel Fouet — May 2025
+**Authors:** Axel Fouet & Noam Levy  — May 2025
 
 ---
 
